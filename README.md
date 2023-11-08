@@ -1,9 +1,9 @@
-Working with UK crime data available on https://data.police.uk/data/
+# Working with UK crime data available on https://data.police.uk/data/
 
-The above website enables to download csv files that provide street-level crime for the selected date range.
+**The above website enables to download csv files that provide street-level crime for the selected date range.**
 For each selected month, separate file is generated. Downloaded data used in this project includes:
- - crime type
- - month and year in which the crime occured
+* * - crime type * *
+* * - month and year in which the crime occured * *
  - longitude and latitude of the crime event
  - UK counties name in which the crime occured
 
